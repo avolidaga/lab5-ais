@@ -1,6 +1,6 @@
 ## Лабораторная работа № 5: Метод k-ближайших соседей
 
-[тык](https://github.com/avolidaga/lab5-ais)
+[обратно на отчетик](https://github.com/avolidaga/ITMO/tree/main/3-course/Artificial%20Intelligence%20Systems)
 
 Задание
 
